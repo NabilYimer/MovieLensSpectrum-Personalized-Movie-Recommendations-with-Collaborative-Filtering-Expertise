@@ -1,0 +1,2 @@
+# MovieLensSpectrum-Personalized-Movie-Recommendations-with-Collaborative-Filtering-Expertise
+MovieLensSpectrum is a project that provides personalized movie recommendations using advanced collaborative filtering algorithms. By harnessing the collaborative filtering expertise and MovieLens dataset, this system tailors movie suggestions based on user preferences, contributing to a more enjoyable and personalized cinematic experience.
